@@ -1,7 +1,9 @@
+/* eslint-disable react/jsx-no-undef */
 /* eslint-disable no-extra-boolean-cast */
-/* eslint-disable no-unused-vars */
 /* eslint-disable react/prop-types */
 /* eslint-disable react-refresh/only-export-components */
+/* eslint-disable no-unused-vars */
+
 import React, { useState, useEffect } from "react";
 import "./App.css";
 import "@aws-amplify/ui-react/styles.css";
@@ -10,6 +12,7 @@ import {
     Button,
     Flex,
     Heading,
+    Image,
     Text,
     TextField,
     View,
