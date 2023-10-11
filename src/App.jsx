@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 /* eslint-disable react-refresh/only-export-components */
-import logo from "./logo.svg";
+import logo from "../public/vite.svg";
 import "@aws-amplify/ui-react/styles.css";
 import {
     withAuthenticator,
